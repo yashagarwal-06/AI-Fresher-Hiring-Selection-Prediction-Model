@@ -8,7 +8,6 @@ In addition to model building, the project includes Exploratory Data Analysis (E
 
 The project was developed using Python, Pandas, Matplotlib, Seaborn, and Scikit-learn.
 
----
 
 ## Dataset
 
@@ -31,7 +30,6 @@ https://github.com/YBIFoundation/ProjectDataSet/raw/main/Fresher%20Hiring%20Sele
 * Attendance
 * Selection Status (Target Variable)
 
----
 
 ## Data Exploration
 
@@ -45,7 +43,6 @@ The following analysis was performed:
 * Generated summary statistics using `df.describe()`
 * Calculated percentage of selected candidates
 
----
 
 ## Exploratory Data Analysis (EDA)
 
@@ -69,7 +66,6 @@ Comparison between selected and non-selected candidates for:
 
 Generated a correlation matrix heatmap to identify relationships between features and candidate selection.
 
----
 
 ## Data Preparation
 
@@ -95,8 +91,6 @@ Generated a correlation matrix heatmap to identify relationships between feature
 
 Dataset was divided into training and testing sets using Scikit-learn's `train_test_split()` function.
 
----
-
 ## Model Building
 
 ### Machine Learning Algorithm
@@ -109,13 +103,11 @@ The Logistic Regression model was trained using the training dataset with:
 
 * max_iter = 1000
 
----
 
 ## Prediction
 
 Generated predictions using the testing dataset.
 
----
 
 ## Model Evaluation
 
@@ -126,9 +118,8 @@ The model was evaluated using a Classification Report containing:
 * F1-Score
 * Accuracy
 
----
-
 ## Project Screenshots
+
 
 ### Dataset Preview
 
@@ -178,7 +169,6 @@ The model was evaluated using a Classification Report containing:
 
 <img width="372" height="122" alt="Classification Report" src="https://github.com/user-attachments/assets/e7ac6a0e-dc44-401b-8ed3-9b225f6e582b" />
 
----
 
 ## Technologies Used
 
@@ -189,7 +179,6 @@ The model was evaluated using a Classification Report containing:
 * Scikit-learn
 * Google Colab
 
----
 
 ## Learning Outcomes
 
@@ -205,7 +194,6 @@ Through this project, I learned:
 * Classification Problems
 * Model Evaluation using Classification Report
 
----
 
 ## Author
 
